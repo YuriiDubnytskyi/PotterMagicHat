@@ -1,0 +1,57 @@
+{
+  "common": {
+    "total": "Total",
+    "success": "Success",
+    "failed": "Failed",
+    "reset": "Reset",
+    "back": "Back",
+    "somethingWentWrong": "Something went wrong",
+    "yes": "Yes",
+    "no": "No",
+    "na": "N/A",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "home": {
+    "home": "Home",
+    "homeScreen": "Home Screen",
+    "notInHouse": "Not in House",
+    "gryffindor": "Gryffindor",
+    "hufflepuff": "Hufflepuff",
+    "ravenclaw": "Ravenclaw",
+    "slytherin": "Slytherin",
+    "wrongAnswer": "Wrong Answer",
+    "correctAnswer": "Correct Answer",
+    "successFinish": "🎉 You have successfully finished the game! 🎉"
+  },
+  "list": {
+    "list": "List",
+    "listScreen": "List Screen",
+    "filterCharacters": "Filter Characters",
+    "attempts": "Attempts: {{count}}",
+    "noResultsFound": "No results found",
+    "accessDenied": "Access Denied",
+    "species": "Species:",
+    "gender": "Gender:",
+    "house": "House:",
+    "dateOfBirth": "Date of Birth:",
+    "yearOfBirth": "Year of Birth:",
+    "wizard": "Wizard",
+    "ancestry": "Ancestry:",
+    "eyeColor": "Eye Color:",
+    "hairColor": "Hair Color:",
+    "wand": "Wand:",
+    "patronus": "Patronus:",
+    "alive": "Alive:",
+    "actor": "Actor:",
+    "hogwartsStaff": "Hogwarts Staff:",
+    "hogwartsStudent": "Hogwarts Student:",
+    "alternativeNames": "Alternative Names:"
+  },
+  "modal": {
+    "resetGame": "Reset Game",
+    "areYouSureReset": "Are you sure you want to reset the game? This action cannot be undone.",
+    "connectionLost": "Connection Lost",
+    "connectionDescription": "It seems that you have lost your internet connection. Please check your connection and try again."
+  }
+}
