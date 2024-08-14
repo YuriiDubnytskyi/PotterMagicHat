@@ -51,6 +51,15 @@
 
 - **View Detailed Character Information**: Users can view the full information of a character on the Details screen **only if** they have successfully guessed the character's House affiliation.
 
+# Video demonstration
+
+
+
+https://github.com/user-attachments/assets/16c258ff-bb68-45f5-a5f6-480a1ed43928
+
+
+
+
 # Run Project Local
 
 ## Step 1: Install dependencies
